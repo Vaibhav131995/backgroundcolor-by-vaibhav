@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    height: 100vh;
+    font-weight: 100vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.display{
+    background-color: black;
+    color: whitesmoke;
+    height: 100px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.hexcolor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    background-color: black;
+    color: whitesmoke;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
